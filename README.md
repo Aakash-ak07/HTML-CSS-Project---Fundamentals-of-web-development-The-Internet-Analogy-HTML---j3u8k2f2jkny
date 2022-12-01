@@ -1,1 +1,1 @@
-# html-css-js-project-boilerplate
+# I have created a mini project- Verify Account UI using html & css. This is my First Html and Css Project given By Newton School
